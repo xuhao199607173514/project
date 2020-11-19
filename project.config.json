@@ -1,0 +1,356 @@
+{
+	"description": "项目配置文件",
+	"packOptions": {
+		"ignore": []
+	},
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"enhance": false,
+		"postcss": true,
+		"preloadBackgroundData": false,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"nodeModules": false,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"uglifyFileName": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"compileHotReLoad": false,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"useIsolateContext": true,
+		"useCompilerModule": true,
+		"userConfirmedUseCompilerModuleSwitch": false
+	},
+	"compileType": "miniprogram",
+	"libVersion": "2.12.2",
+	"appid": "wx253ee61add52ef25",
+	"projectname": "%E5%95%A6%E5%95%A6%E5%95%A6",
+	"debugOptions": {
+		"hidedInDevtools": []
+	},
+	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": -1,
+			"list": [
+				{
+					"id": -1,
+					"name": "pages/goods/goodsdetail/goodsdetail",
+					"pathName": "pages/goods/goodsdetail/goodsdetail",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/goods/goods",
+					"pathName": "pages/goods/goods",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/order/orderMark/orderMark",
+					"pathName": "pages/order/orderMark/orderMark",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/order/orderSubmit/orderSubmit",
+					"pathName": "pages/order/orderSubmit/orderSubmit",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/index/index",
+					"pathName": "pages/index/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/mine/location/location",
+					"pathName": "pages/mine/location/location",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/mine/locationlist/locationlist",
+					"pathName": "pages/mine/locationlist/locationlist",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/login/login",
+					"pathName": "pages/login/login",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/welcome/welcome",
+					"pathName": "pages/welcome/welcome",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/mine/mine",
+					"pathName": "pages/mine/mine",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/qd/qd",
+					"pathName": "pages/qd/qd",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/qdlist/qdlist",
+					"pathName": "pages/qdlist/qdlist",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/scanhome_/scanhome",
+					"pathName": "pages/scanhome_/scanhome",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/scanresult_/scanresult",
+					"pathName": "pages/scanresult_/scanresult",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/jfshop/jfshop",
+					"pathName": "pages/jfshop/jfshop",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/jfdetail/jfdetail",
+					"pathName": "pages/jfdetail/jfdetail",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/dhjl/dhjl",
+					"pathName": "pages/dhjl/dhjl",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/goodsdetail/goodsdetail",
+					"pathName": "pages/goodsdetail/goodsdetail",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/jforder/jforder",
+					"pathName": "pages/jforder/jforder",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/jfgoodsdetail/jfgoodsdetail",
+					"pathName": "pages/jfgoodsdetail/jfgoodsdetail",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/rule/rule",
+					"pathName": "pages/rule/rule",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/location/location",
+					"pathName": "pages/location/location",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/mine/location/location",
+					"pathName": "pages/mine/location/location",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/choiceshop/choiceshop",
+					"pathName": "pages/choiceshop/choiceshop",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/association/index",
+					"pathName": "pages/association/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/association/list/index",
+					"pathName": "pages/association/list/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/association/posted/index",
+					"pathName": "pages/association/posted/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/association/detail/index",
+					"pathName": "pages/association/detail/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/comment/detail/index",
+					"pathName": "pages/comment/detail/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/comment/list/index",
+					"pathName": "pages/comment/list/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/order/index",
+					"pathName": "pages/order/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/order/pay/index",
+					"pathName": "pages/order/pay/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/message/index",
+					"pathName": "pages/message/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/order/detail/index",
+					"pathName": "pages/order/detail/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/mine/location/index",
+					"pathName": "pages/mine/location/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "一键下单",
+					"pathName": "pages/order/makeorder/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "商品详情",
+					"pathName": "pages/goods/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "我的",
+					"pathName": "pages/mine/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/mine/insevt/index",
+					"pathName": "pages/mine/insevt/index",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "登陆",
+					"pathName": "pages/login/login",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "设计",
+					"pathName": "pages/sheji/index",
+					"scene": null
+				}
+			]
+		}
+	}
+}

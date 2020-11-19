@@ -1,0 +1,87 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/goods/index",
+    "pages/search/index",
+    "pages/category/index",
+    "pages/goods/remark/index",
+    "pages/order/index",
+    "pages/order/detail/index",
+    "pages/order/pay/index",
+    "pages/order/paidan/index",
+    "pages/order/makeorder/index",
+    "pages/order/makeorder2/index",
+    "pages/order/cancel/index",
+    "pages/sheji/index",
+    "pages/zhuangxiu/index",
+    "pages/message/index",
+    "pages/comment/detail/index",
+    "pages/comment/list/index",
+    "pages/mine/location/index",
+    "pages/mine/location/locationlist/locationlist",
+    "pages/mine/index",
+    "pages/mine/insevt/index",
+    "pages/login/login",
+    "pages/wait/wait",
+    "pages/weixiu/index",
+    "pages/worker/index",
+    "pages/complete/index",
+    "pages/completeweixiu/index",
+    "pages/welcome/welcome"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#1A91F6",
+    "navigationBarTitleText": "家装维修",
+    "navigationBarTextStyle":"white"
+  },
+  "tabBar": {
+    "backgroundColor": "#fff",
+    "selectedColor": "#1A91F6",
+    "color": "#cdcdcd",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/images/c1.png",
+        "selectedIconPath": "/images/c11.png",
+        "selectedColor": "#02BC6F"
+      },
+      {
+        "pagePath": "pages/zhuangxiu/index",
+        "text": "我要装修",
+        "iconPath": "/images/c2.png",
+        "selectedIconPath": "/images/c22.png",
+        "selectedColor": "#02BC6F"
+      },
+      {
+        "pagePath": "pages/order/makeorder/index",
+        "text": "一键下单",
+        "iconPath": "/images/icon3.png",
+        "selectedIconPath": "/images/icon3.png",
+        "selectedColor": "#02BC6F"
+      },
+     {
+      "pagePath": "pages/sheji/index",
+      "text": "我要设计",
+      "iconPath": "/images/c4.png",
+      "selectedIconPath": "/images/c44.png",
+      "selectedColor": "#02BC6F"
+    },
+      {
+        "pagePath": "pages/mine/index",
+        "text": "我的",
+        "iconPath": "/images/c5.png",
+        "selectedIconPath": "/images/c55.png",
+        "selectedColor": "#02BC6F"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示" 
+    }
+  }
+}
